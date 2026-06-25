@@ -5,17 +5,29 @@
   <title>Resume</title>
 </head>
 <body>
-
+<nav>
+  <ol>
+    <li><a href="#profile">Profile</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#hobbies">Hobbies</a></li>
+    <li><a href="#contact-form">Contact</a></li>
+  </ol>
+</nav>
 <aside>
      <figure>
       <img src="profile.jpg" alt="Profile photo" width="150" height="200">
+       <figcaption>Gaurav Negi</figcaption>
     </figure>
     </aside>
   <main id="main-content">
 
     <header>
+      <hgroup>
       <h1>Gaurav Negi</h1>
       <p id="title">BTech Student | AI Tools & Automation Enthusiast | Built & Deployed Real-World Projects</p>
+      </hgroup>
     </header>
 
     <section id="profile">
@@ -26,7 +38,10 @@ translation tool and calorie tracker app. Eager to contribute as a
 software development intern/fresher and apply core CS fundamentals to
 real-world challenges.</p>
     </section>
-
+<address>
+  <a href="https://github.com/gauravnegi33" target="_blank">GitHub</a> |
+  <a href="https://www.linkedin.com/in/gaurav-negi-b2b162350" target="_blank">LinkedIn</a>
+</address>
 
 <section id="projects">
   <h2>Projects</h2>
@@ -65,24 +80,60 @@ Most calorie tracking apps are either too complex or don't support Indian foods 
 </section>
 
 
-    <section id="education">
-      <h2>Education</h2>
-      <article>
-        <h3>Btech cse</h3>
-        <p>Amrapali university
-            <br>
-            haldwani,UK
-        </p>
-        <time>2024 - 2028</time>
-      </article>
-<article>
-    <h3>Intermediate</h3>
-    <p>Great Mission Public School
-    <br>
-    ramnagar,Uk
-</p>
-</article>
-    </section>
+  <section id="education">
+  <h2>Education</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Degree</th>
+        <th>Institution</th>
+        <th>Location</th>
+        <th>Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>B.Tech CSE</td>
+        <td>Amrapali University</td>
+        <td>Haldwani, Uttarakhand</td>
+        <td>2024 - 2028</td>
+      </tr>
+      <tr>
+        <td>Intermediate</td>
+        <td>Great Mission Public School</td>
+        <td>ramnagar, uk</td>
+        <td>2022 - 2023</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+<section id="hobbies">
+  <h2>Hobbies</h2>
+  <details>
+  
+    <ol>
+      <li>Playing Sports(fitness freak)</li>
+      <li>Solving DSA problems</li>
+      <li>writing poetry</li>
+    </ol>
+  </details>
+</section>
+<section id="contact-form">
+  <h2>Contact Me</h2>
+  <form>
+    <label for="name">Your Name:</label>
+    <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+    <label for="email">Your Email:</label>
+    <input type="email" id="email" name="email" placeholder="Enter your email" required>
+
+    <label for="message">Your Message:</label>
+    <input type="text" id="message" name="message" placeholder="Type your message here" required>
+
+    <button type="submit">Send Message</button>
+  </form>
+</section>
+
 
   </main>
   <aside id="sidebar">
