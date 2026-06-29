@@ -6,7 +6,7 @@ A personal resume website built using semantic HTML5  tag — no `<div>` tags us
 ## 🔗 Live Demo
 👉 [https://gauravnegi33.github.io/Resume/](https://gauravnegi33.github.io/Resume/)
 
-# Resume Project
+
 
 
 
