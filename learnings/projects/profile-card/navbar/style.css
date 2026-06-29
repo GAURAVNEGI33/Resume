@@ -1,0 +1,37 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial;
+}
+
+nav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:20px 50px;
+background:#5a0d2d;
+}
+
+nav h2{
+color:#ffcc66;
+}
+
+ul{
+display:flex;
+list-style:none;
+gap:25px;
+}
+
+a{
+text-decoration:none;
+color:white;
+padding:8px 15px;
+border-radius:20px;
+transition:.3s;
+}
+
+a:hover{
+background:#ffb347;
+color:black;
+}
