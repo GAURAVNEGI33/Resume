@@ -14,6 +14,8 @@ A personal resume website built using semantic HTML5  tag — no `<div>` tags us
 - - 📖 [CSS Notes](./learnings/css.md)
 
 ## Projects
-- 👤 Profile Card: https://username.github.io/Resume/learnings/projects/profile-card/
-- 🧭 Navbar: https://username.github.io/Resume/learnings/projects/navbar/
-- 🔘 Buttons: https://username.github.io/Resume/learnings/projects/buttons/
+## Projects
+
+- 👤 [Profile Card](https://GAURAVNEGI33.github.io/Resume/learnings/projects/profile-card/)
+- 🧭 [Navbar](https:///GAURAVNEGI33.github.io/Resume/learnings/projects/navbar/)
+- 🔘 [Buttons](https:///GAURAVNEGI33.github.io/Resume/learnings/projects/buttons/)
