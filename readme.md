@@ -13,7 +13,7 @@ A personal resume website built using semantic HTML5  tag — no `<div>` tags us
 ## Learnings
 - - 📖 [CSS Notes](./learnings/css.md)
 
-## Projects
+
 ## Projects
 
 - 👤 [Profile Card](https://GAURAVNEGI33.github.io/Resume/learnings/projects/profile-card/)
