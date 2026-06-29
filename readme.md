@@ -12,7 +12,7 @@ A personal resume website built using semantic HTML5  tag — no `<div>` tags us
 - 🏠 Resume: https://username.github.io/Resume/
 
 ## Learnings
-- 📖 CSS Notes: ./learnings../css.md
+- 📖 CSS Notes: ./learnings/css.md
 
 ## Projects
 - 👤 Profile Card: https://username.github.io/Resume/learnings/projects/profile-card/
